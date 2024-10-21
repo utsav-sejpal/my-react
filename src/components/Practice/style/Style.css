@@ -1,0 +1,8 @@
+.text{
+    color: #080865;
+    font-family: fantasy;
+    background-color: yellow;
+    padding: 15px;
+    margin: 15px;
+    border: 5px dashed;
+}

@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+table {
+    border: 20px double burlywood;
+    margin-top: 20px;
+    width: 50%;
+}
+
+.fragment-item {
+    color: rgb(111, 64, 2);
+    font-size: 30px;
+    font-weight: bold;
+    margin: 50px 60px;
+}
+
+.fragment-item:hover {
+    background-color: aliceblue;
+    color: rgb(250, 142, 0);
+    width: 100%;
+}
